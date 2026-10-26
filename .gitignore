@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+tracker.db
+*.xlsx
+.DS_Store
